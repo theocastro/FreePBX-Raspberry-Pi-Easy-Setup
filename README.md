@@ -14,8 +14,7 @@ Gigabit Ethernet
 Before starting:
 * Use root to login
 * Open configurations with ```sudo raspi-config```
-* set locale to ```en_GB.UTF-8```
-* Exapnd you filesystems in ```Advanced > Expand filesystem```
+* Expand you filesystems in ```Advanced > Expand filesystem```
 * Don't select to reboot now
 
 
