@@ -12,6 +12,7 @@ A simple script to install FreePBX on Raspberry Pi
 To make things easier:
 
 ```
+sudo apt update -y && sudo apt full-upgrade -y
 sudo apt install git -y
 sudo git clone https://github.com/theocastro/FreePBX-Raspberry-Pi-Easy-Setup.git
 cd FreePBX-Raspberry-Pi-Easy-Setup
