@@ -10,6 +10,13 @@ Raspberry Pi 4 4gb
 Gigabit Ethernet
 ```
 
+Before starting:
+* Use root to login
+* set locale to "en_GB.UTF-8"
+* on raspi-config command, select ```Advanced > Expand filesystem```
+* Don't select to reboot now
+
+
 To make things easier:
 
 ```
@@ -23,12 +30,9 @@ sudo ./install
 ```
 
 
-Tips:
-Use root to login, set locale to "en_GB.UTF-8" and expand filesystem.
-
-Observations: When the raspi-config windows appers, don't select yes on "reboot now" option.
-
 
 Special thanks for
-  Mr. Scott Phillips: https://sourceforge.net/u/thatguy/profile - Script owner
-  Unify Communications: https://www.youtube.com/watch?v=wXVLvxrEWeY&t=134s - Video Tutorial
+```
+Mr. Scott Phillips: https://sourceforge.net/u/thatguy/profile - Script owner
+Unify Communications: https://www.youtube.com/watch?v=wXVLvxrEWeY&t=134s - Video Tutorial
+```
