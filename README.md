@@ -19,7 +19,7 @@ Before starting:
 
 
 Notice:
-Some conigs will be changed. They are:
+Some configs will be changed. They are:
  1. Timezone: ```Europe/London```
  2. Locale: ```en_GB.UTF-8```
  3. Hostname: ```raspbx```
