@@ -13,8 +13,9 @@ Gigabit Ethernet
 To make things easier:
 
 ```
-sudo apt update -y && sudo apt full-upgrade -y
-sudo apt install git -y
+sudo apt update -y && sudo apt full-upgrade -y && sudo apt install git -y
+sudo timedatectl set-timezone Europe/London
+sudo hostname raspbx
 sudo git clone https://github.com/theocastro/FreePBX-Raspberry-Pi-Easy-Setup.git
 cd FreePBX-Raspberry-Pi-Easy-Setup
 sudo chmod +x install
@@ -22,7 +23,7 @@ sudo ./install
 ```
 
 Tips:
-Set the hostname to "raspbx" and use root to login.
+Use root to login, set locale to "en_GB.UTF-8" and expand filesystem.
 
 
 
