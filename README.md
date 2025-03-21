@@ -40,7 +40,5 @@ sudo ./install
 
 
 Special thanks for
-```
-Mr. Scott Phillips: https://sourceforge.net/u/thatguy/profile - Script owner
-Unify Communications: https://www.youtube.com/watch?v=wXVLvxrEWeY&t=134s - Video Tutorial
-```
+```Mr. Scott Phillips (Script owner)```: https://sourceforge.net/u/thatguy/profile
+```Unify Communications (Video Tutorial)```: https://www.youtube.com/watch?v=wXVLvxrEWeY&t=134s
