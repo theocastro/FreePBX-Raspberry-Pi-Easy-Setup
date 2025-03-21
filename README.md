@@ -21,6 +21,9 @@ sudo chmod +x install
 sudo ./install
 ```
 
+Tips:
+Set the hostname to "raspbx" and use root to login.
+
 
 
 Special thanks for
