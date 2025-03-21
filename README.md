@@ -10,11 +10,20 @@ Raspberry Pi 4 4gb
 Gigabit Ethernet
 ```
 
+
 Before starting:
 * Use root to login
-* set locale to "en_GB.UTF-8"
-* on raspi-config command, select ```Advanced > Expand filesystem```
+* Open configurations with ```sudo raspi-config```
+* set locale to ```en_GB.UTF-8```
+* Exapnd you filesystems in ```Advanced > Expand filesystem```
 * Don't select to reboot now
+
+
+Notice:
+Some conigs will be changed. They are:
+ 1. Timezone: ```Europe/London```
+ 2. Locale: ```en_GB.UTF-8```
+ 3. Hostname: ```raspbx```
 
 
 To make things easier:
