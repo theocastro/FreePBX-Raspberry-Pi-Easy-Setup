@@ -22,9 +22,11 @@ sudo chmod +x install
 sudo ./install
 ```
 
+
 Tips:
 Use root to login, set locale to "en_GB.UTF-8" and expand filesystem.
 
+Observations: When the raspi-config windows appers, don't select yes on "reboot now" option.
 
 
 Special thanks for
