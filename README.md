@@ -4,10 +4,11 @@ A simple script to install FreePBX on Raspberry Pi
  I was trying to install an opensource VoIP PBX on my Raspberry, however, has no much resources and tutorials online to make this. I dont't know why it is so hard, but here is a solution. This script will allow you to install FreePBX on a Raspberry Pi without spending much time and brain connections. LOL :)
 
  Recomended Hardware:
- Raspberry Pi 4 4gb
- 32gb MicroSD Card
- Gigabit Ethernet
-
+```
+Raspberry Pi 4 4gb
+32gb MicroSD Card
+Gigabit Ethernet
+```
 
 To make things easier:
 
